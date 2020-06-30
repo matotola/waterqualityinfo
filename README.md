@@ -1,2 +1,2 @@
-# waterqualityinfo
- waterquality
+# waterqualityinformation
+ waterqualityinformation
